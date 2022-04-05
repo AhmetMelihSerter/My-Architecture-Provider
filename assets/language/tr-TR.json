@@ -1,0 +1,27 @@
+{
+    "general": {
+        "all_valid_error": "Lütfen Alanları Boş Bırakmayın.",
+        "error": "Hata {}"
+    },
+    "onboard_view": {
+        "onboard_text": "Hoş Geldiniz"
+    },
+    "login_view": {
+        "login_app_bar_text": "Giriş",
+        "login_email_label": "E-posta",
+        "login_password_label": "Şifre",
+        "login_button_label": "Giriş Yap",
+        "login_valid_mail": "Lütfen Doğru Mail Giriniz.",
+        "login_valid_password": "Lütfen Daha Güçlü Şifre Giriniz.",
+        "login_request_error": "Bir Hata Oluştu. Lütfen Daha Sonra Tekrar Deneyin.",
+        "login_request_login_error": "Lütfen bilgilerinizi kontrol edin."
+    },
+    "home_view": {
+        "home_app_bar_text": "Ana Sayfa"
+    },
+    "language_widget": {
+        "title": "Dil Seçiniz",
+        "language_english": "İngilizce",
+        "language_turkish": "Türkçe"
+    }
+}
